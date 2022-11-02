@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N1ck3yBearded
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...GameDevelopment
 - 🌱 I’m currently learning ... unreal_engine5
 - 💞️ I’m looking to collaborate on ...game_dev
 - 📫 How to reach me ...text_me
